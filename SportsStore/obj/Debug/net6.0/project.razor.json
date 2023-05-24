@@ -18384,6 +18384,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/jeff/Documents/DotNetProjects/SportsSln/SportsStore/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/jeff/Documents/DotNetProjects/SportsSln/SportsStore/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
